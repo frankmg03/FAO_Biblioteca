@@ -1,0 +1,95 @@
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/bin/Debug/net8.0/API.Core.deps.json
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/bin/Debug/net8.0/API.Core.dll
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/bin/Debug/net8.0/API.Core.pdb
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/bin/Debug/net8.0/API.Data.dll
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/bin/Debug/net8.0/API.Helper.dll
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/bin/Debug/net8.0/API.Modelos.dll
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/bin/Debug/net8.0/API.Data.pdb
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/bin/Debug/net8.0/API.Modelos.pdb
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/bin/Debug/net8.0/API.Helper.pdb
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/obj/Debug/net8.0/API.Core.csproj.AssemblyReference.cache
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/obj/Debug/net8.0/API.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/obj/Debug/net8.0/API.Core.AssemblyInfoInputs.cache
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/obj/Debug/net8.0/API.Core.AssemblyInfo.cs
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/obj/Debug/net8.0/API.Core.csproj.CoreCompileInputs.cache
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/obj/Debug/net8.0/API.Core.csproj.Up2Date
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/obj/Debug/net8.0/API.Core.dll
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/obj/Debug/net8.0/refint/API.Core.dll
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/obj/Debug/net8.0/API.Core.pdb
+/home/feru/Documents/Dev/APIS/Libreria/API.Core/obj/Debug/net8.0/ref/API.Core.dll
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Core.deps.json
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Core.dll
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Core.pdb
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Data.dll
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Helper.dll
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Modelos.dll
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Data.pdb
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Modelos.pdb
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Helper.pdb
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.csproj.AssemblyReference.cache
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.AssemblyInfoInputs.cache
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.AssemblyInfo.cs
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.csproj.CoreCompileInputs.cache
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.csproj.CopyComplete
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.dll
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\obj\Debug\net8.0\refint\API.Core.dll
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.pdb
+C:\Users\KatPC\Documents\Disco Duro Externo\Documents\5to Semestre\Taller de desarrollo 3\API Biblioteca\Biblioteca\LibAPI\Libreria\API.Core\obj\Debug\net8.0\ref\API.Core.dll
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Core.deps.json
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Core.dll
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Core.pdb
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Data.dll
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Helper.dll
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Modelos.dll
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Data.pdb
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Modelos.pdb
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Helper.pdb
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.csproj.AssemblyReference.cache
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.AssemblyInfoInputs.cache
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.AssemblyInfo.cs
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.csproj.CoreCompileInputs.cache
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.csproj.CopyComplete
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.dll
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\obj\Debug\net8.0\refint\API.Core.dll
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.pdb
+C:\Users\KatPC\Documents\Api\LibAPI\Libreria\API.Core\obj\Debug\net8.0\ref\API.Core.dll
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Core.deps.json
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Core.dll
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Core.pdb
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Data.dll
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Helper.dll
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Modelos.dll
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Data.pdb
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Modelos.pdb
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\bin\Debug\net8.0\API.Helper.pdb
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.csproj.AssemblyReference.cache
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.AssemblyInfoInputs.cache
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.AssemblyInfo.cs
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.csproj.CoreCompileInputs.cache
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.csproj.Up2Date
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.dll
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\obj\Debug\net8.0\refint\API.Core.dll
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\obj\Debug\net8.0\API.Core.pdb
+C:\Biblioteca_FAO\LibAPI\LibAPI\Libreria\API.Core\obj\Debug\net8.0\ref\API.Core.dll
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\bin\Debug\net8.0\API.Core.deps.json
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\bin\Debug\net8.0\API.Core.dll
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\bin\Debug\net8.0\API.Core.pdb
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\bin\Debug\net8.0\API.Data.dll
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\bin\Debug\net8.0\API.Helper.dll
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\bin\Debug\net8.0\API.Modelos.dll
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\bin\Debug\net8.0\API.Data.pdb
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\bin\Debug\net8.0\API.Modelos.pdb
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\bin\Debug\net8.0\API.Helper.pdb
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\obj\Debug\net8.0\API.Core.csproj.AssemblyReference.cache
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\obj\Debug\net8.0\API.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\obj\Debug\net8.0\API.Core.AssemblyInfoInputs.cache
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\obj\Debug\net8.0\API.Core.AssemblyInfo.cs
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\obj\Debug\net8.0\API.Core.csproj.CoreCompileInputs.cache
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\obj\Debug\net8.0\API.Core.csproj.Up2Date
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\obj\Debug\net8.0\API.Core.dll
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\obj\Debug\net8.0\refint\API.Core.dll
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\obj\Debug\net8.0\API.Core.pdb
+C:\Users\frank\OneDrive\Documentos\5°M\calidad\Api\API.Core\obj\Debug\net8.0\ref\API.Core.dll
